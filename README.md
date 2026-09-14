@@ -2,7 +2,7 @@
 
 My preparation for the Winter Internship Programme 2026 offered by the Indian Statistical Institute, Chennai. I am interested in the mathematical aspect, viz. statistical quality control \(SQC\) and operations research \(OR\).
 
-This repository contains working code for some of the methods used in SQC and OR.
+This repository contains my working code for some of the methods used in SQC and OR.
 
 ## Contents
 
